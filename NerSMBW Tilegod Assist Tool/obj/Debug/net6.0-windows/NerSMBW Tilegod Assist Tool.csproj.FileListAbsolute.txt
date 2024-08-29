@@ -1,0 +1,18 @@
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.csproj.AssemblyReference.cache
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\NerSMBW_Tilegod_Assist_Tool.Form1.resources
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.csproj.GenerateResource.cache
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.AssemblyInfoInputs.cache
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.AssemblyInfo.cs
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.csproj.CoreCompileInputs.cache
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\bin\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.exe
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\bin\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.deps.json
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\bin\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.runtimeconfig.json
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\bin\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.dll
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\bin\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.pdb
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.dll
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\refint\NerSMBW Tilegod Assist Tool.dll
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.pdb
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\NerSMBW Tilegod Assist Tool.genruntimeconfig.cache
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\ref\NerSMBW Tilegod Assist Tool.dll
+C:\Users\nator\OneDrive\デスクトップ\NerSMBW Tilegod Assist Tool\NerSMBW Tilegod Assist Tool\obj\Debug\net6.0-windows\NerSMBW_Tilegod_Assist_Tool.ImageListForm.resources
